@@ -129,4 +129,4 @@ app.use(cors());
 
 ---
 
-*Developed as part of the Cyber Physical Production System Project - Group 2.*
+*Developed as part of the Cyber Physical Production System Project - Group 17.*
